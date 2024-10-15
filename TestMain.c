@@ -1,7 +1,5 @@
 #include <stdio.h>
-
-int TestFunktion();
-void TestFunktion2();
+#include "TestHead.h"
 
 int main(){
 	int zahl = TestFunktion(2, 3);
